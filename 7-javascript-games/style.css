@@ -1,0 +1,8 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;    
+}
+
+/* create a layout for the grid, 3 by 4 squares. */
